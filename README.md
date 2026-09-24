@@ -1,6 +1,6 @@
-###Objective
+### Objective
 Learn how to receive data using req.body, read existing data from a file, add new data to it, and write the
-updated data back to the file.
+updated data back to the file
 
 ```Requirements
 1. Create students.json. At the start it must contain only an empty array []. Run the server on port 5000.
